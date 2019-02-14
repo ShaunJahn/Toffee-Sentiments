@@ -1,0 +1,38 @@
+﻿@model ShoppingCartViewModel
+
+<h2>Your shopping cart</h2>
+<table class="table table-bordered table-striped" style="position: sticky;">
+    <thead>
+        <tr>
+            <th>Selected amount</th>
+            <th class="text-right">Template</th>
+            <th class="text-right">Theme</th>
+            <th class="text-right">Stamp</th>
+            <th class="text-right">Message</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.ShoppingCart.ShoppingCartItems)
+        {
+            <tr>
+                <td class="text-center">@line.Amount</td>
+                <td class="text-left">@line.CardCreation.Template</td>
+                <td class="text-left">@line.CardCreation.Theme</td>
+                <td class="text-left">@line.CardCreation.Stamp</td>
+                <td class="text-left">@line.CardCreation.Message</td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total:</td>
+            <td class="text-right">
+                @Model.ShoppingCart.ShoppingCartItems.Count
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<a class="btn btn-primary" asp-controller="Order" asp-action="Checkout"style="position: sticky;">Order</a>
+<a class="btn btn-primary" asp-controller="Template" asp-action="Index"style="position: sticky;">Create Another</a>
+

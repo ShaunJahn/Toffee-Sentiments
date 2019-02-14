@@ -1,0 +1,76 @@
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.deps.json
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.runtimeconfig.json
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.runtimeconfig.dev.json
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.dll
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.pdb
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.Views.dll
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.Views.pdb
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.csproj.CoreCompileInputs.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorAssemblyInfo.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorAssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.AssemblyInfoInputs.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.AssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.TagHelpers.input.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.TagHelpers.output.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorCoreGenerate.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Message\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutCompleted.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Stamp\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Template\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Theme\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorTargetAssemblyInfo.cache
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorTargetAssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.Views.pdb
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.dll
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.pdb
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.csproj.CopyComplete
+C:\Users\mrjsh\Desktop\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.csprojAssemblyReference.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.deps.json
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.runtimeconfig.json
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.runtimeconfig.dev.json
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.dll
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.pdb
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.Views.dll
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\bin\Debug\netcoreapp2.2\Toffee-Sentiments.Views.pdb
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.csprojAssemblyReference.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.csproj.CoreCompileInputs.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorAssemblyInfo.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorAssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.AssemblyInfoInputs.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.AssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.TagHelpers.input.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.TagHelpers.output.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorCoreGenerate.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Message\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Order\CheckoutCompleted.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Stamp\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Template\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\Theme\Index.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorTargetAssemblyInfo.cache
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.RazorTargetAssemblyInfo.cs
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.Views.pdb
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.dll
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.pdb
+C:\Users\mrjsh\Desktop\Visal Basic 2017\Charissa\Charissa two\Toffee-Sentiments-\Toffee-Sentiments\Toffee-Sentiments\obj\Debug\netcoreapp2.2\Toffee-Sentiments.csproj.CopyComplete

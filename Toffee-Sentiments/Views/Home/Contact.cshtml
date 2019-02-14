@@ -1,0 +1,57 @@
+﻿@model HomePageViewModel
+
+<div class="container"style="position: sticky;">
+    <h2 class="text-center glow">Contact Form</h2>
+    <div class="row justify-content-center">
+        <div class="col-6 col-md-6 col-lg-6 pb-5">
+
+            <!--Form with header-->
+            <form form asp-controller="Home" asp-action="contact" method="post" role="form">
+                <div class="card border-primary rounded-0">
+                    <div class="card-header p-0">
+                        <div class="bg-info text-white text-center py-2">
+                            <h3><i class="fa fa-envelope"></i> Email Me</h3>
+                        </div>
+                    </div>
+                    <div class="card-body p-3">
+                        <!--Body-->
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"><i class="fa fa-user text-info"></i></div>
+                                </div>
+                                <input asp-for="ContactFormViewModel.UserName" class="form-control" type="text" placeholder="Name"/>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"><i class="fa fa-envelope text-info"></i></div>
+                                </div>
+                                <input asp-for="ContactFormViewModel.Email" class="form-control"type="text" placeholder="Email" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group mb-2">
+                                <div class="input-group-prepend">
+                                    <div class="input-group-text"><i class="fa fa-comment text-info"></i></div>
+                                </div>
+                                <input asp-for="ContactFormViewModel.Message" class="form-control" type="text" placeholder="Message" />
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <input type="submit" value="Send" class="btn btn-info btn-block rounded-0 py-2">
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <!--Form with header-->
+
+        </div>
+        <div class="col-6 col-md-6 col-lg-6 pb-5">
+            <img class="imgContact"   src="https://static.wixstatic.com/media/291af878338e4a92b7bb33bb3497e34b.jpg/v1/fill/w_506,h_337,al_c,q_80,usm_0.66_1.00_0.01/291af878338e4a92b7bb33bb3497e34b.webp" alt="" />
+        </div>
+    </div>
+
+</div>
+

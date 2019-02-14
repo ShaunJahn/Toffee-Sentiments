@@ -1,0 +1,29 @@
+﻿
+@model LoginViewModel
+<div class="container-fluid;" style="position: sticky;">
+        <h1 style="color:white">Register now</h1>
+        <form asp-controller="Account" asp-action="Register" method="post" role="form">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="col-md-2 control-label" style="color:white;"></label>
+                <div class="col-md-10">
+                    <input asp-for="UserName" class="form-control" style="width:20%" />
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password " class="col-md-2 control-label" style="color:white; "></label>
+                <br />
+                <label class="col-md-2 control-label" style="color:white; font-size: 0.7rem; ">Passwords must be at least 8 characters and contain at 3 of 4 of the following: upper case (A-Z), lower case (a-z), number (0-9) and special character</label>
+                <div class="col-md-10">
+                    <input asp-for="Password" class="form-control" style="width:20%" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" class="btn btn-primary" value="Register" />
+                </div>
+            </div>
+        </form>
+    </div>

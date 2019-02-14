@@ -1,0 +1,50 @@
+﻿@model HomePageViewModel
+<h1 class="glow" style="position: sticky;">Cards Of The Month </h1>
+<div class="col text-center">
+    <a class="glow btn" asp-controller="Template" asp-action="Index" style="font-size: 40px; position: sticky;">Click Here To Create Your Card!</a>
+    <br />  
+</div>
+    <div id="cards" class="carousel slide" data-ride="carousel">
+
+        <!-- Indicators -->
+        <ul class="carousel-indicators">
+            <li data-target="#cards" data-slide-to="0" class="active"></li>
+            <li data-target="#cards" data-slide-to="1"></li>
+            <li data-target="#cards" data-slide-to="2"></li>
+            <li data-target="#cards" data-slide-to="3"></li>
+            <li data-target="#cards" data-slide-to="4"></li>
+            <li data-target="#cards" data-slide-to="5"></li>
+            <li data-target="#cards" data-slide-to="5"></li>
+            <li data-target="#cards" data-slide-to="6"></li>
+            <li data-target="#cards" data-slide-to="6"></li>
+            <li data-target="#cards" data-slide-to="8"></li>
+            <li data-target="#cards" data-slide-to="9"></li>
+        </ul>
+
+        <!-- The slideshow -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="http://wallpaperswide.com/download/beautiful_lion_2-wallpaper-800x480.jpg" alt="" style="width:100%;">
+            </div>
+
+            @foreach (var card in Model.CardsOfTheMonthViewModel.CardsOfTheMonths)
+            {
+                <div class="carousel-item">
+                    <img src="@card.Link" alt="" style="width:100%;">
+                </div>
+            }
+
+        </div>
+
+        <!-- Left and right controls -->
+        <a class="carousel-control-prev" href="#cards" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#cards" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+    </div>
+
+    <div class="border">
+        @Html.Partial("Contact")
+    </div>

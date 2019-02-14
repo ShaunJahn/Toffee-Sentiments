@@ -1,0 +1,27 @@
+﻿@model MessageViewModel;
+<h1 class="glow">Sentiments</h1>
+<div class="container-fluid">
+    <form asp-controller="Message" asp-action="getMessage" method="post" role="form">
+        <div class="col text-center">
+            <input class="big" asp-for="getMessage" type="radio" value="Text_1" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_2" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_3" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_4" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_5" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_6" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_7" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_8" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_9" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_10" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_11" /> This Is a random Text Message <br />
+            <input class="big" asp-for="getMessage" type="radio" value="Text_12" /> This Is a random Text Message <br />
+
+             <input class=" border border-danger rounded" asp-for="getMessage" /> Own Sentiment<br />
+
+                <input type="submit" class="btn btn-primary" value="Next" />
+                                                                                                                 
+
+        </div>
+    </form>
+</div>
+
